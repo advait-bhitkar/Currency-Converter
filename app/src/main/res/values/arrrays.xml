@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Currency">
+        <item>EGP</item>
+        <item>IDR</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>LKR</item>
+        <item>NPR</item>
+        <item>NZD</item>
+        <item>PKR</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>USD</item>
+
+    </string-array>
+
+    <string-array name="name">
+        <item>Egyptian Pound</item>
+        <item>Rupiah</item>
+        <item>Indian Rupee</item>
+        <item>Yen</item>
+        <item>Sri Lanka Rupee</item>
+        <item>Nepalese Rupee</item>
+        <item>New Zealand Dollar</item>
+        <item>Pakistan Rupee</item>
+        <item>Russian Ruble</item>
+        <item>Singapore Dollar</item>
+        <item>US Dollar</item>
+
+    </string-array>
+
+</resources>
